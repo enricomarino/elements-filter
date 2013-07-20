@@ -1,0 +1,11 @@
+{
+  "name": "elements-filter",
+  "repo": "enricomarino/elements-filter",
+  "description": "filter, plugin for elements",
+  "version": "0.0.1",
+  "keywords": ["elements", "filter"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": ["index.js"]
+}
